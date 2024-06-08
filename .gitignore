@@ -1,1 +1,5 @@
 venv
+.DS_Store
+.gitignore
+#ignorar copias de archivos
+*copy*
